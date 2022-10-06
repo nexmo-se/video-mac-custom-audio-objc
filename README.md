@@ -1,6 +1,8 @@
-# video-mac-basic-sample-objc
+# video-mac-custom-audio-objc
 
 Tested on XCode Version 13.4.1 (13F100) running on MacOS 12.6
+
+Implements the audio interface to build a custom audio driver.
 
 1. Create a Vonage Video API Account
 2. Get an APIKey, Session-ID, Token from Vonage video playground
